@@ -1,0 +1,12 @@
+# 環境變數（絕對不要上傳金鑰）
+.env
+
+# 依賴
+node_modules/
+
+# 系統與編輯器
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
